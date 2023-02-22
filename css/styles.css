@@ -82,6 +82,13 @@
   padding-top: 0rem;
   padding-bottom: 0rem;
 }
+#mainNav.scroll .navbar-toggler {
+  color: #fbfbfb;
+}
+.navbar-light.scroll .navbar-toggler {
+  color: rgba(0, 0, 0, 0.55);
+  border-color: rgb(243 238 238 / 70%);
+}
 #mainNav.scroll a {
   color: white;
 }

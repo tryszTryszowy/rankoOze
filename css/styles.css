@@ -78,7 +78,7 @@
 }
 
 #mainNav.scroll {
-  background: #2c6452;
+  background: #203e66;
   padding-top: 0rem;
   padding-bottom: 0rem;
 }
@@ -89,7 +89,7 @@
     color: white;
 }
 #mainNav.scroll .nav-link.active-menu  {
-      border-bottom: 0.25rem solid white;
+      border-bottom: 0.25rem solid #f2c603;
 
 }
 
@@ -97,7 +97,7 @@
 .active-menu {
   font-size: 18px;
   outline: none;
-  border-bottom: 0.25rem solid #198755;
+  border-bottom: 0.25rem solid #f2c603;
 }
 
 .bg-image{
@@ -3118,13 +3118,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #2937f0;
-  border-color: #2937f0;
+  background-color: #203e66;;
+  border-color: #203e66;;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #232fcc;
-  border-color: #212cc0;
+  background-color: #203e66;;
+  border-color: #203e66;;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -4526,7 +4526,7 @@ textarea.form-control-lg {
 }
 
 .navbar-light .navbar-brand {
-  color: rgba(0, 0, 0, 0.9);
+  color:#203e66;
 }
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
   color: rgba(0, 0, 0, 0.9);
@@ -11425,7 +11425,7 @@ section {
   color: #212529;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: #212529;
+  color: #203e66;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #6c757d;
